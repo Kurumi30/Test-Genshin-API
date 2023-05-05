@@ -1,0 +1,27 @@
+{
+  "name": "bot-test",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Um teste da api de Genshin Impact",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kurumi30"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "hoyoverse",
+    "genshin",
+    "mihoyo",
+    "api"
+  ],
+  "author": "Kurumi30",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
